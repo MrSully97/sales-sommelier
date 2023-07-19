@@ -14,7 +14,7 @@
   justify-content: center;
   background-color: darkred;
   color: white;
-  font-family: (Arial, Helvetica, sans-serif), "Marck Script", cursive; /* Replace YOUR_SERIF_FONT with the desired serif font */
+  font-family: (Arial, Helvetica, sans-serif), "Marck Script", cursive;
 }
 
 .sales-text {
