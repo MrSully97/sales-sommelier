@@ -27,7 +27,7 @@
 }
 
 .space-between {
-  flex: 1; /* This will create a flexible space between the words */
+  flex: 0; /* This will create a flexible space between the words */
   margin: 0 2px;
 }
 </style>
